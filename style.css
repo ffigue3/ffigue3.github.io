@@ -8,6 +8,10 @@ h2{
 color:#ff7ad3;
 font-family:Savoye LET;
 font-size:76px;
+background-color:#ff3870;
+border-style:outset;
+border-with:40px;
+padding:20px;
 }
 
 p{
