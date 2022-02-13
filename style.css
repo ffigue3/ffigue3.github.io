@@ -1,11 +1,11 @@
 h1 {
-color:hotpink;
+color:red;
 font-family:verdana;
 font-size:8px;
 }
 
 h2{
-color:#ff7ad3;
+color:white;
 font-family:Savoye LET;
 font-size:76px;
 background-color:#ff3870;
@@ -15,10 +15,10 @@ padding:20px;
 }
 
 p{
-color:white;
+color:#ff7ad3;
 font-family:STLiti;
 font-size:20px;
-background-color:#ff78a9;
+background-color:hotpink;
 border-style:outset;
 border-with:40px;
 padding:20px;
